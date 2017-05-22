@@ -2,7 +2,7 @@ set modeline
 set nocompatible
 filetype indent plugin on
 execute pathogen#infect()
-syntax on             " включить подсветку синтаксиса
+syntax on
 set ts=4              " у меня табуляция 4 символа
 set autoindent
 set background=dark   " весьма важная штука! :)
