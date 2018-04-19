@@ -13,8 +13,11 @@ set backspace=indent,eol,start
 set term=xterm-256color
 set t_Co=256
 set laststatus=2
+set number
+set cursorline
+set hlsearch
 "colorscheme alduin
-colorscheme badwolf
+"colorscheme badwolf
 "colorscheme c64
 "colorscheme cascadia
 "colorscheme cobalt
@@ -26,7 +29,7 @@ colorscheme badwolf
 "colorscheme eddie
 "colorscheme gentooish
 "colorscheme gummybears
-"colorscheme molokai
+colorscheme molokai
 "colorscheme oceandeep
 "colorscheme PerfectDark
 "colorscheme railscasts
